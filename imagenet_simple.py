@@ -1,0 +1,26 @@
+#!/usr/bin/env python2
+
+IMAGEDB_NAMES = {
+    'bear': ['american black bear', 'badger', 'ice bear'],
+    'butterfly': ['cabbage butterfly'],
+    'chameleon': ['african chameleon', 'american chameleon'],
+    'crab': ['fiddler crab'],
+    'cat': ['siamese'],
+    'dog': ['african hunting dog', 'australian terrier', 'irish setter',
+            'border collie', 'boxer', 'brittany spaniel', 'dalmation', 'doberman',
+            'flat-coated retriever', 'yorkshire terrier'],
+    'elephant': ['african elephant', 'indian elephant'],
+    'ferrit': ['black-footed ferret'],
+    'fox': ['arctic fox'],
+    'frog': ['bullfrog'],
+    'lizard': ['aligator lizard', 'common iguana', 'frilled lizard'],
+    'lobster': ['american lobster'],
+    'monkey': ['baboon', 'macaque', 'chimpanzee', 'colobus'],
+    'newt': ['common newt'],
+    'rabbit': ['wood rabbit'],
+    'shark': ['hammerhead shark'],
+    'snake': ['indian cobra', 'boa constrictor'],
+    'spider': ['barn spider', 'black and gold garden spider', 'black widow'],
+    'turtle': ['box turtle'],
+    'wolf': ['coyote'],
+}
